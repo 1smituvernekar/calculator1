@@ -35,5 +35,9 @@
     margin: 20px 0;
 }
 form.display input{
-    t
+    text-align: right;
+    flex:1;
+    font-size:45px;
+    box-shadow:none;
+}
 }
